@@ -1,3 +1,8 @@
 node_modules/
 dist/
+<<<<<<< HEAD
 .vscode/
+=======
+
+.vscode/
+>>>>>>> b0433c0 (chore: initialize project with template setup)
